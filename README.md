@@ -1,4 +1,4 @@
 <!--
 **kuruxxii/kuruxxii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![Satoru](https://thumbs.gfycat.com/CarelessPitifulIndianskimmer.webp)
+![image](https://media.giphy.com/media/V1qhRLf5TtUQAZoVyB/giphy.gif)
