@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋🏼, I'm Zihan Lin</h1>
 <h3 align="center">A traveling adventurer</h3>
 
-- 🔭 I’m currently studying at **Dalhousie University**
+- 🔭 I’m currently pursuing a Master's degree at **Dalhousie University**
 
 - 👯 I graduated from **Korea Advanced Institute of Science and Technology**
 
