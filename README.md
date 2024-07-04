@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **self-help, studying abroad, or anything else**
 
-- 📫 How to reach me **zihanlin@dal.ca**
+- 📫 React me at **zihanlin@dal.ca**
 
 - 🪷 Fun fact **I am a Buddhist.**
 
