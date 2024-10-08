@@ -3,7 +3,6 @@
 -->
 
 <h1 align="center">Hi 👋🏼, I'm Zihan (Rin Nohara) Lin</h1>
-<h3 align="center">A traveling adventurer</h3>
 
 - 🔭 I’m currently pursuing a Master's degree at **Dalhousie University**
 
