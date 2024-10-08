@@ -2,7 +2,7 @@
 **kuruxxii/kuruxxii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi 👋🏼, I'm Zihan Lin</h1>
+<h1 align="center">Hi 👋🏼, I'm Zihan (Rin Nohara) Lin</h1>
 <h3 align="center">A traveling adventurer</h3>
 
 - 🔭 I’m currently pursuing a Master's degree at **Dalhousie University**
