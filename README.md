@@ -10,8 +10,6 @@
 
 - 🌱 I major in **Computer Science & Business**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@reese-lin)
-
 - 💬 Ask me about **self-help, studying abroad, or anything else**
 
 - 📫 React me at **zihanlin@dal.ca**
